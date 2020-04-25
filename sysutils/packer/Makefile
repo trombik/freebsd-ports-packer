@@ -1,7 +1,7 @@
 # $FreeBSD: head/sysutils/packer/Makefile 520924 2019-12-26 15:41:09Z lifanov $
 
 PORTNAME=	packer
-PORTVERSION=	1.5.1
+PORTVERSION=	1.5.5
 DISTVERSIONPREFIX=	v
 CATEGORIES=	sysutils
 
