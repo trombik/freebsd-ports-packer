@@ -179,14 +179,14 @@ GH_TUPLE=	\
 	nu7hatch:gouuid:179d4d0c4d8d:nu7hatch_gouuid/vendor/github.com/nu7hatch/gouuid \
 	olekukonko:tablewriter:96aac992fc8b:olekukonko_tablewriter/vendor/github.com/olekukonko/tablewriter \
 	oracle:oci-go-sdk:v1.8.0:oracle_oci_go_sdk/vendor/github.com/oracle/oci-go-sdk \
-	outscale:osc-go:v0.0.1:outscale_osc_go/vendor/github.com/outscale/osc-go \
+	outscale:osc-sdk-go:v0.0.1:outscale_osc_go/vendor/github.com/outscale/osc-go \
 	packer-community:winrmcp:0fd363d6159a:packer_community_winrmcp/vendor/github.com/packer-community/winrmcp \
 	pierrec:lz4:v2.0.5:pierrec_lz4/vendor/github.com/pierrec/lz4 \
 	pkg:errors:v0.8.1:pkg_errors/vendor/github.com/pkg/errors \
 	pkg:sftp:e84cc8c755ca:pkg_sftp/vendor/github.com/pkg/sftp \
 	pmezard:go-difflib:v1.0.0:pmezard_go_difflib/vendor/github.com/pmezard/go-difflib \
 	posener:complete:v1.1.1:posener_complete/vendor/github.com/posener/complete \
-	profitbricks:profitbricks-sdk-go:v4.0.2:profitbricks_profitbricks_sdk_go/vendor/github.com/profitbricks/profitbricks-sdk-go \
+	ionos-enterprise:ionos-enterprise-sdk-go:v4.0.2:profitbricks_profitbricks_sdk_go/vendor/github.com/profitbricks/profitbricks-sdk-go \
 	renstrom:fuzzysearch:2d205ac6ec17:renstrom_fuzzysearch/vendor/github.com/renstrom/fuzzysearch \
 	ryanuber:go-glob:256dc444b735:ryanuber_go_glob/vendor/github.com/ryanuber/go-glob \
 	saintfish:chardet:3af4cd4741ca:saintfish_chardet/vendor/github.com/saintfish/chardet \
