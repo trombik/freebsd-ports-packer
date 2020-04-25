@@ -1,4 +1,4 @@
-TIMESTAMP = 1587819214
+TIMESTAMP = 1587819636
 SHA256 (hashicorp-packer-v1.5.5_GH0.tar.gz) = 244217a54eb54347ebe977607ff1a263a09702197e4462d688dc2d7bc2800131
 SIZE (hashicorp-packer-v1.5.5_GH0.tar.gz) = 15837472
 SHA256 (1and1-oneandone-cloudserver-sdk-go-v1.0.1_GH0.tar.gz) = f7d5ffc7cb356262c938d31a29b2ca3033c77aec494df53212904002ed36b8ea
@@ -89,8 +89,8 @@ SHA256 (digitalocean-godo-v1.11.1_GH0.tar.gz) = d9fc9031a4c5dc056f2809f4a878a806
 SIZE (digitalocean-godo-v1.11.1_GH0.tar.gz) = 68352
 SHA256 (dimchansky-utfbom-v1.1.0_GH0.tar.gz) = 86dd5045ac9318f945fed22f8dd1523051d65f7bea8da530b7e74759d8897463
 SIZE (dimchansky-utfbom-v1.1.0_GH0.tar.gz) = 8422
-SHA256 (docker-docker-57142e89befe_GH0.tar.gz) = f5b7bf67dbfe5e08aa6f6c9e9b0ce7364b9b6de2a2fc32360e699e35c55db54e
-SIZE (docker-docker-57142e89befe_GH0.tar.gz) = 7377587
+SHA256 (moby-moby-57142e89befe_GH0.tar.gz) = f5b7bf67dbfe5e08aa6f6c9e9b0ce7364b9b6de2a2fc32360e699e35c55db54e
+SIZE (moby-moby-57142e89befe_GH0.tar.gz) = 7377587
 SHA256 (dominikh-go-tools-v0.0.1-2019.2.3_GH0.tar.gz) = 3b16c5bec68f71d13be0216b849ce910aa4a1844db6e08dafe90fb1a439974c7
 SIZE (dominikh-go-tools-v0.0.1-2019.2.3_GH0.tar.gz) = 367559
 SHA256 (dustin-go-humanize-v1.0.0_GH0.tar.gz) = e4540bd50ac855143b4f2e509313079c50cf5d8774f09cc10dbca5ae9803d8ba

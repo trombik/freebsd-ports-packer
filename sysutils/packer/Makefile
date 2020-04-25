@@ -62,7 +62,7 @@ GH_TUPLE=	\
 	digitalocean:go-qemu:dd7bb9c771b8:digitalocean_go_qemu/vendor/github.com/digitalocean/go-qemu \
 	digitalocean:godo:v1.11.1:digitalocean_godo/vendor/github.com/digitalocean/godo \
 	dimchansky:utfbom:v1.1.0:dimchansky_utfbom/vendor/github.com/dimchansky/utfbom \
-	docker:docker:57142e89befe:docker_docker/vendor/github.com/docker/docker \
+	moby:moby:57142e89befe:docker_docker/vendor/github.com/docker/docker \
 	dominikh:go-tools:v0.0.1-2019.2.3:dominikh_go_tools/vendor/honnef.co/go/tools \
 	dustin:go-humanize:v1.0.0:dustin_go_humanize/vendor/github.com/dustin/go-humanize \
 	dylanmei:iso8601:v0.1.0:dylanmei_iso8601/vendor/github.com/dylanmei/iso8601 \
